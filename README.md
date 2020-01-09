@@ -4,3 +4,5 @@ Project application source code files for connecting Microchip PIC-IoT WG to the
 
 PICIoT_MediumOne_1.0.0.zip is the project for opening in MPLAB X. It contains one directory named PICIoT_MediumOne.X
 
+## https://www.mouser.com/applications/microchip-helping-connect-cloud/
+
